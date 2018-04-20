@@ -86,6 +86,6 @@ variable "kinesis_override" {
 }
 
 variable "s3_heap_dump_bucket" {
-  default = "wdpr-apps-perf"
+  default = "wdpr-dev-perf"
 }
 
